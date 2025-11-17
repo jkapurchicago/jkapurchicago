@@ -1,47 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Jatin Kapur</h1>
+<p align="center"><i>human-first tech • data systems • music analytics</i></p>
 
-<!--
-**jkapurchicago/jkapurchicago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi there 👋
-
-I'm Jatin --> I like building human first products that help people make sense of the world.  
-I mix data engineering, UI/UX thinking, and product design to turn messy systems into simple ones.
+<div align="center">
+  <a href="https://www.linkedin.com/in/jkapurchicago/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://jkapurchicago.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-34D399?style=flat-square&logo=Google-Chrome&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jkapurchicago/)
-[![Website](https://img.shields.io/badge/Website-jkapurchicago.github.io-brightgreen?style=for-the-badge&logo=google-chrome)](https://jkapurchicago.github.io)
+### 🔥 Current Work
+- MIXR (cross-platform music intelligence)
+- data pipelines with personality
+- human-centered UI systems
 
 ---
 
-### 🔭 What I'm working on
-- **MIXR** — breaking the walls between music platforms  
-- Large-scale **data engineering** projects  
-- UI/UX inspired by human-centered design & Ecology Lab principles
+### ⚙️ Tools I use
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
 
-### 🌱 Currently learning
-- Advanced data modeling  
-- Better interface design patterns  
-- ML for music, culture, & behavior
-
-### 💬 Ask me about
-- Data engineering  
-- Music analytics  
-- Product design  
-- Python, SQL, AWS  
-- Next.js / React
