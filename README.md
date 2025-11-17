@@ -9,7 +9,7 @@
 ---
 
 ## 🎨 About Me
-I’m Jatin — I build human-first tech that blends engineering, design thinking, and music.
+I’m Jatin --> I build human-first tech that blends engineering, design thinking, and music.
 
 ---
 
@@ -25,14 +25,14 @@ I’m Jatin — I build human-first tech that blends engineering, design thinkin
 
 ---
 
-## 🧠 What I'm Working On
-- MIXR — playlist intelligence  
-- Human-centered UI systems  
-- Data pipelines with personality  
+## What I'm Working On
+- MIXR — Universal Playlists 
+- LEarning about Human-centered UI systems  
+- Reak Time Pipelines
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
@@ -45,7 +45,7 @@ I’m Jatin — I build human-first tech that blends engineering, design thinkin
 ## 🎧 Moodboard
 - interfaces that feel musical  
 - playful data visualizations  
-- soft UI + human-centered design  
+
 
 ---
 
