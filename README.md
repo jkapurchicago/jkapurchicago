@@ -1,59 +1,87 @@
-<!-- Header Animation (upload your own GIF/SVG to /assets) -->
-<img src="./assets/header-animation.gif" width="100%" />
+# Jatin Kapur
 
-<!-- Typing Animation (upload your own SVG or use external) -->
-<p align="center">
-  <img src="./assets/typing.svg" />
-</p>
+I like building Engineering systems that feel simple, human, and a little musical.
 
----
-
-## 🎨 About Me
-I’m Jatin --> I build human-first tech that blends engineering, design thinking, and music.
+[LinkedIn](https://www.linkedin.com/in/jatin-kapur-builds/)
+[Portfolio](https://jkapurchicago.github.io/)
+[GitHub](https://github.com/jkapurchicago)
 
 ---
 
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/jkapurchicago/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://jkapurchicago.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-jkapurchicago.github.io-brightgreen?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
+## About Me
+
+I design human first technology that blends data engineering, cloud systems, and thoughtful interfaces.
+
+My work focuses on clarity, thoughtful architecture, and systems that feel effortless to use. I like to integrate design into my work.
 
 ---
 
-## What I'm Working On
-- MIXR — Universal Playlists 
-- LEarning about Human-centered UI systems  
-- Reak Time Pipelines
+# Skills & Tools
 
 ---
 
-## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+## **Languages & Core Engineering**
+
+| Python | TypeScript | JavaScript | C++ | SQL | HTML/CSS |
+| ------ | ---------- | ---------- | --- | --- | -------- |
 
 ---
 
-## 🎧 Moodboard
-- interfaces that feel musical  
-- playful data visualizations  
+## **Frontend & Product Development**
 
-
----
-
-## 🐍 Contribution Snake
-<!-- You can also self-host the SVG by downloading it into /assets -->
-<img src="./assets/snake.gif" />
+| React | Next.js | UI/UX Systems | Interaction Design | Responsive Layouts |
+| ----- | ------- | ------------- | ------------------ | ------------------ |
 
 ---
 
-<!-- Footer Animation (your own GIF/SVG) -->
-<img src="./assets/footer-animation.gif" width="100%" />
+## **Data Science**
+
+| Pandas | NumPy | Scikit-learn | Jupyter | Data Visualization | Statistics |
+| ------ | ----- | ------------ | ------- | ------------------ | ---------- |
+
+---
+
+## **Data Engineering & Pipelines**
+
+| PySpark | dbt | Apache Airflow | Apache Kafka | ETL/ELT | Data Modeling | Warehousing |
+| ------- | --- | -------------- | ------------ | ------- | ------------- | ----------- |
+
+---
+
+## **Cloud & DevOps**
+
+| AWS (S3, EC2, Lambda, API Gateway, CloudFront, SageMaker) | Terraform | CI/CD | Monitoring |
+| --------------------------------------------------------- | --------- | ----- | ---------- |
+
+---
+
+## **Databases**
+
+| PostgreSQL | MySQL | MongoDB | DynamoDB |
+| ---------- | ----- | ------- | -------- |
+
+## **Tools & Practices**
+
+| Git | VS Code | PyCharm | Debugging | Systems Thinking | Human-Centered Design |
+| --- | ------- | ------- | --------- | ---------------- | --------------------- |
+
+---
+
+## Current Work
+
+- **MIXR** —> Universal Cross Platform Music Playlists
+- **MIXR Live Mix Sessions** —> create playlists together in real time, then instantly share them. Now everyone gets the aux.
+- **Streaming Data Systems** — >Real-time orchestration & analytics
+- **Human-Centered UI Systems** —> Interfaces designed with intention
+
+---
+
+## Moodboard
+
+-- interfaces that feel musical
+-- playful data visualizations
+
+---
+
+<img src="./assets/snake.gif" width="100%"/>
+
