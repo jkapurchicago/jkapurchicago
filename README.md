@@ -78,8 +78,8 @@ My work focuses on clarity, thoughtful architecture, and systems that feel effor
 
 ## Moodboard
 
--- **INTERDACES that feel musical** 
--- **playful data visualizations**  
+- **INTERFACES that feel musical** 
+ **PLAYFUL data visualizations**  
 
 ---
 
