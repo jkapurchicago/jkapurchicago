@@ -51,9 +51,9 @@ I’m Jatin — I build human-first tech that blends engineering, design thinkin
 
 ## 🐍 Contribution Snake
 <!-- You can also self-host the SVG by downloading it into /assets -->
-<img src="./assets/snake.svg" />
+<img src="./assets/snake.gif" />
 
 ---
 
 <!-- Footer Animation (your own GIF/SVG) -->
-<img src="./assets/footer-animation.svg" width="100%" />
+<img src="./assets/footer-animation.gif" width="100%" />
